@@ -1,0 +1,25 @@
+{
+    "malicious_urls": [
+      "example-bad-site.com",
+      "phishing-site.net",
+      "malware-download.com",
+      "fake-login-page.com",
+      "stealyourdata.info",
+      "dangerous-site.xyz",
+      "trojan-installer.org",
+      "fraud-alerts.cc",
+      "creditcard-stealer.net",
+      "hacker-webpage.ru",
+      "password-harvest.com",
+      "virus-injection.site",
+      "scam-warning.biz",
+      "darkweb-links.io",
+      "ransomware-dropper.com",
+      "fake-antivirus-protection.com",
+      "lottery-winner-alert.net",
+      "get-rich-quick.biz",
+      "email-verification-now.com",
+      "you-won-prize.click"
+    ]
+  }
+  
